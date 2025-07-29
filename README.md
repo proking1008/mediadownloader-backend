@@ -1,2 +1,2 @@
-# mediadownloader-backend
+# media-downloader-backend
 mdb
